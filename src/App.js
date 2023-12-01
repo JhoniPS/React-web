@@ -114,7 +114,10 @@ function App() {
               <option value="PHP">PHP</option>
               <option value="Node">Node</option>
               <option value="Go">Go</option>
+              <option value="Kotlin">Kotlin</option>
               <option value="C">C</option>
+              <option value="Android">Android</option>
+              <option value="C++">C++</option>
             </select>
 
             <button type="button" onClick={handleAddRepository}>Adicionar</button>
